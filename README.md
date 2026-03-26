@@ -2,7 +2,7 @@
 
 Interactive uniform circular motion simulator for university physics.
 
-**Live:** [ucm-simulator.vercel.app](https://ucm-simulator.vercel.app) <!-- update with real URL -->
+**Live:** [mcu.paulcontre.com](https://mcu.paulcontre.com) <!-- update with real URL -->
 
 ## What it does
 
